@@ -1,0 +1,108 @@
+.pc {
+    font-size: 20px;
+    color: #444444;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.popular-category{
+    background-color: white;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+.carousel-heading{
+    margin-bottom: 20px;
+}
+.line-border{
+    height: 1px;
+    border-bottom: 1px solid #444444;
+    margin-top: 17px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.arrow{
+    width: 30px;
+    height: 30px;
+    border: 1px solid #464646;
+    text-align: center;
+    line-height: 28px;
+    font-size: 23px;
+    color: #464646;
+    cursor: pointer;
+    border-radius: 30px 30px 30px 30px;
+}
+.next{
+    padding-left: 2px;
+}
+.item{
+    width: 150px !important;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+}
+.menu-name{
+    font-size: 16px;
+    font-weight: 600;
+    color: #393939;
+}
+.aa {
+    text-decoration: none;
+}
+.popular-category{
+    background-color: white;
+    padding: 20px 0;
+    margin-bottom: 20px;
+    box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.2);
+}
+.home-carousel-section .carousel-heading h2 {
+    font-size: 20px;
+    color: #606060;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.three-thumbs-carousel .item {
+    width: 350px !important;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block !important;
+}
+.img-fluid{
+    width: 100%;
+}
+.home-carousel-section .carousel-heading {
+    margin-bottom: 20px;
+}
+.flex-grow-1 {
+    -ms-flex-positive: 1!important;
+    flex-grow: 1!important;
+}
+.five-thumbs-carousel .item {
+    width: 210px !important;
+    height: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block !important;
+}
+.rounded-carousel-thumb {
+    background-color: #ffffff;
+    border: 1px solid #bbbbbb;
+    line-height: normal;
+    padding-bottom: 10px;
+    border-radius: 10px 10px 10px 10px;
+}
+.rounded-carousel-thumb .heading {
+    font-size: 18px;
+    font-weight: 700;
+    color: #3b3b3b;
+    margin-bottom: 5px;
+}
+.rounded-carousel-thumb .sub-heading {
+    font-size: 15px;
+    font-weight: 400;
+    color: #3b3b3b;
+    margin-bottom: 10px;
+}
+.rounded-carousel-thumb .icon img {
+    width: 150px !important;
+    display: inline-block !important;
+}
+  

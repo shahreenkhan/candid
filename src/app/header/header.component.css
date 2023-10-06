@@ -1,0 +1,109 @@
+ul{
+    font-size: 15px;
+    color: black;
+}
+.btnsignin{
+    background-color: #3c4ea2;
+    color: #fff;
+    font-size: 15px;
+    padding: 0.6rem 1rem;
+    border-radius: 100px 100px 100px 100px;
+}
+.bel{
+    font-size: 20px;
+    color: #3c4ea2;
+    margin: 0 50px 0 25px;
+}
+.inp{
+    font-size: 15px;
+    padding: 0.5rem 1rem;
+    height: auto;
+    border-color: #bababa;
+    width: 370px;
+    padding-left: 35px;
+    color: #000000;
+    border-radius: 100px 0px 0px 100px
+}
+.bt{
+    color: #ffffff;
+    font-size: 15px;
+    background-color: #de1c4e;
+    border-color: #bababa;
+    padding: 0.5rem 1rem;
+    margin-left: -8px;
+    border-radius: 0px 100px 100px 0px;
+}
+.sele{
+    margin-right: 400px;
+    padding:7px 10px 10px 10px;
+    height: auto;
+    border-radius: 20px;
+    font-size: 14px;
+}
+.lab{
+    margin-right: 4px;
+    margin-top: 9px;
+    font-size: 15px;
+    font-weight: 500;
+}
+.mainhead{
+    background: linear-gradient(to bottom, #ea171f, #dd1c54);
+}
+.aa{
+    color: #fff;
+    font-size: 16px;
+}
+.lii{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.ull{
+    background: linear-gradient(to bottom, #ea171f, #dd1c54);
+}
+
+/*  2nav*/
+.dropdown-menu li {
+    position: relative;
+    }
+    .dropdown-menu .dropdown-submenu {
+    display: none;
+    position: absolute;
+    left: 100%;
+    top: -7px;
+    }
+    .dropdown-menu .dropdown-submenu-left {
+    right: 100%;
+    left: auto;
+    }
+    
+    .dropdown-menu > li:hover > .dropdown-submenu {
+    display: block;
+    }
+    
+      /*style for hovor effect 👇🏻*/
+      
+      .dropdown:hover>.dropdown-menu {
+      display: block;
+    }
+    
+    .dropdown>.dropdown-toggle:active {
+        pointer-events: none;
+    }
+      .category_itemList ul li a{
+        color:#fff ;
+      }
+      category_itemList ul li :hover {
+        color: #000 ;
+      }
+      .category_itemList ul{
+        background-color:#1a56b8;
+      }
+      .st{
+        max-width: 60%;
+        margin-left: 35px;
+      }
+      .ss{
+        margin-top: -29px;
+        margin-bottom: -17px;
+      }
+      /*style for hovor effect ☝️*/
